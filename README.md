@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aditya 👋
 
 ## 🚀 About Me
 I am an aspiring Machine Learning Engineer passionate about building end-to-end data pipelines and scalable AI applications. I enjoy the process of bridging the gap between raw data and actionable insights through robust, automated workflows.
